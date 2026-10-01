@@ -1,6 +1,3 @@
-<<<<<<< HEAD
- I had a very positive experience completing this task. I learned how to plan and develop a responsive fashion e-commerce website using React, HTML, CSS, and JavaScript. The project helped me improve my skills in component-based development, routing, product filtering, shopping cart functionality, wishlist management, and form handling. I faced some challenges while organizing the project structure and implementing state management, but I solved them through research, testing, and debugging. Overall, this task was very useful and improved my confidence in frontend development.
-=======
 # StyleHub – Fashion & Apparel
 
 > A modern, responsive fashion e-commerce website built with React.js.
